@@ -5,7 +5,7 @@ The filtering and sorting work perfectly well. However, I want each image to lin
 
 The demo can be seen on GitHub here: https://githubdantheman.github.io/mixitup_demo/
 
-The demo opens with nothing showing, which is exactly what I want.
+The demo opens with nothing showing, which is exactly what I want. Also, I have the links opening in a new window.
 
 Is there anyone here who might know what is going on with the sorting and the links and how I might fix it? I am very inexperienced with HTML, CSS and Javascript. 
 
